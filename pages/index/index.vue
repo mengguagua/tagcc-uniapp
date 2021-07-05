@@ -44,19 +44,25 @@
 		},
 		methods: {
 			loadData () {
-				uni.request({
-					url: 'api/share/content/query',
-					data: {
-						keyword: '',
-					},
-					success: (resp) => {
-						console.log(resp)
-						this.allData = resp.data.data
-					},
-					fail: (resp) => {
-						console.log(resp)
-					},
-				})
+				this.$api.get('api/share/content/query', {
+				}).then((resp) => {
+					console.log(resp)
+					this.allData = resp.data.data
+				});
+				
+				// uni.request({
+				// 	url: 'api/share/content/query',
+				// 	data: {
+				// 		keyword: '',
+				// 	},
+				// 	success: (resp) => {
+				// 		console.log(resp)
+				// 		this.allData = resp.data.data
+				// 	},
+				// 	fail: (resp) => {
+				// 		console.log(resp)
+				// 	},
+				// })
 			},
 			goUp (ret) {
 				this.showToast();
