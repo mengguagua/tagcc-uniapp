@@ -7998,9 +7998,9 @@ module.exports = g;
 
 /***/ }),
 /* 4 */
-/*!***************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/pages.json ***!
-  \***************************************************************/
+/*!******************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/pages.json ***!
+  \******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8141,9 +8141,9 @@ function normalizeComponent (
 
 /***/ }),
 /* 11 */
-/*!**********************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/index.js ***!
-  \**********************************************************************/
+/*!*************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/index.js ***!
+  \*************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8292,9 +8292,9 @@ var install = function install(Vue) {
 
 /***/ }),
 /* 12 */
-/*!*********************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/mixin/mixin.js ***!
-  \*********************************************************************************/
+/*!************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/mixin/mixin.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8365,9 +8365,9 @@ var install = function install(Vue) {
 
 /***/ }),
 /* 13 */
-/*!***********************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/request/index.js ***!
-  \***********************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/request/index.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8545,9 +8545,9 @@ new Request();exports.default = _default;
 
 /***/ }),
 /* 14 */
-/*!****************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/deepMerge.js ***!
-  \****************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/deepMerge.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8585,9 +8585,9 @@ deepMerge;exports.default = _default;
 
 /***/ }),
 /* 15 */
-/*!****************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/deepClone.js ***!
-  \****************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/deepClone.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8618,9 +8618,9 @@ deepClone;exports.default = _default;
 
 /***/ }),
 /* 16 */
-/*!***********************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/test.js ***!
-  \***********************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/test.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8859,9 +8859,9 @@ function code(value) {var len = arguments.length > 1 && arguments[1] !== undefin
 
 /***/ }),
 /* 17 */
-/*!******************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/queryParams.js ***!
-  \******************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/queryParams.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8927,9 +8927,9 @@ queryParams;exports.default = _default;
 
 /***/ }),
 /* 18 */
-/*!************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/route.js ***!
-  \************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/route.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9848,9 +9848,9 @@ if (hadRuntime) {
 
 /***/ }),
 /* 22 */
-/*!*****************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/timeFormat.js ***!
-  \*****************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/timeFormat.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9909,9 +9909,9 @@ timeFormat;exports.default = _default;
 
 /***/ }),
 /* 23 */
-/*!***************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/timeFrom.js ***!
-  \***************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/timeFrom.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9966,9 +9966,9 @@ timeFrom;exports.default = _default;
 
 /***/ }),
 /* 24 */
-/*!********************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/colorGradient.js ***!
-  \********************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/colorGradient.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10109,9 +10109,9 @@ function colorToRgba(color) {var alpha = arguments.length > 1 && arguments[1] !=
 
 /***/ }),
 /* 25 */
-/*!***********************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/guid.js ***!
-  \***********************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/guid.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10160,9 +10160,9 @@ guid;exports.default = _default;
 
 /***/ }),
 /* 26 */
-/*!************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/color.js ***!
-  \************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/color.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10207,9 +10207,9 @@ color;exports.default = _default;
 
 /***/ }),
 /* 27 */
-/*!****************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/type2icon.js ***!
-  \****************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/type2icon.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10252,9 +10252,9 @@ type2icon;exports.default = _default;
 
 /***/ }),
 /* 28 */
-/*!******************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/randomArray.js ***!
-  \******************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/randomArray.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10269,9 +10269,9 @@ randomArray;exports.default = _default;
 
 /***/ }),
 /* 29 */
-/*!**************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/addUnit.js ***!
-  \**************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/addUnit.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10287,9 +10287,9 @@ function addUnit() {var value = arguments.length > 0 && arguments[0] !== undefin
 
 /***/ }),
 /* 30 */
-/*!*************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/random.js ***!
-  \*************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/random.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10307,9 +10307,9 @@ random;exports.default = _default;
 
 /***/ }),
 /* 31 */
-/*!***********************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/trim.js ***!
-  \***********************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/trim.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10332,9 +10332,9 @@ trim;exports.default = _default;
 
 /***/ }),
 /* 32 */
-/*!************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/toast.js ***!
-  \************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/toast.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10352,9 +10352,9 @@ toast;exports.default = _default;
 
 /***/ }),
 /* 33 */
-/*!****************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/getParent.js ***!
-  \****************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/getParent.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10409,9 +10409,9 @@ function getParent(name, keys) {
 
 /***/ }),
 /* 34 */
-/*!**************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/$parent.js ***!
-  \**************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/$parent.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10437,9 +10437,9 @@ function $parent() {var name = arguments.length > 0 && arguments[0] !== undefine
 
 /***/ }),
 /* 35 */
-/*!**********************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/sys.js ***!
-  \**********************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/sys.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10455,9 +10455,9 @@ function sys() {
 
 /***/ }),
 /* 36 */
-/*!***************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/debounce.js ***!
-  \***************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/debounce.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10494,9 +10494,9 @@ debounce;exports.default = _default;
 
 /***/ }),
 /* 37 */
-/*!***************************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/function/throttle.js ***!
-  \***************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/function/throttle.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10536,9 +10536,9 @@ throttle;exports.default = _default;
 
 /***/ }),
 /* 38 */
-/*!***********************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/config/config.js ***!
-  \***********************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/config/config.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10559,9 +10559,9 @@ var version = '1.8.4';var _default =
 
 /***/ }),
 /* 39 */
-/*!***********************************************************************************!*\
-  !*** /Users/gcc/electronic-port/uni-app/tagcc-uni/uview-ui/libs/config/zIndex.js ***!
-  \***********************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /Users/gcc/electronic-port/uni-app/tagcc-uniapp/uview-ui/libs/config/zIndex.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
